@@ -1,4 +1,4 @@
-# Creacion_Tablas
+# Insercion Tablas
 Tablas
 insert into policias values(1,'1307776730','Klever Ramirez','Teniente','Administrativo'),
 (2,'1376658895','Juan Perez','Oficial','Agente'),
